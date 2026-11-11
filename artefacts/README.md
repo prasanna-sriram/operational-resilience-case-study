@@ -2,4 +2,4 @@
 
 [Project overview](/README.md)
 
-No worked artefacts are included in this initial structure. This index lists material as it becomes available.
+- [R01 — Start with the operation, not the server](/artefacts/R01_worked_analysis.md)

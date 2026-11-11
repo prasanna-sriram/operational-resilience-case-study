@@ -26,9 +26,13 @@ Operation boundaries, customer impact, recovery objectives, disruption tolerance
 | [Source register](references/source_register.md) | Primary references, version/status notes and access limits |
 | [Change log](CHANGELOG.md) | Material additions and corrections |
 
-## Content status
+## Available chapters and supporting documents
 
-This initial snapshot contains the project background, references and navigation. Case chapters and their supporting records will be added as they are reviewed. The indexes above contain no unreleased chapter titles.
+| Chapter | Worked artefact | Working template |
+|---|---|---|
+| [R01 - Start with the operation, not the server](/chapters/R01_start_with_the_operation_not_the_server.md) | [R01 worked analysis](/artefacts/R01_worked_analysis.md) | [R01 template](/templates/R01_working_template.md) |
+
+Read a chapter first, then inspect its worked record and adapt the template to a clearly specified scenario.
 
 ## Interpretation and evidence
 

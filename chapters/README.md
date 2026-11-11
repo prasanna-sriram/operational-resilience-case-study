@@ -2,4 +2,4 @@
 
 [Project overview](/README.md)
 
-No case chapters are included in this initial structure. This index lists material as it becomes available.
+- [R01 — Start with the operation, not the server](/chapters/R01_start_with_the_operation_not_the_server.md)

@@ -2,4 +2,4 @@
 
 [Project overview](/README.md)
 
-No reusable templates are included in this initial structure. This index lists material as it becomes available.
+- [R01 - Start with the operation, not the server](/templates/R01_working_template.md)
